@@ -11,9 +11,9 @@ Next steps are:
 
 
 ## The textbook
-Textbook: Adcances in Financial Machine Learning - Marcos López de Prado
+Textbook: Advances in Financial Machine Learning - Marcos López de Prado
 
-- [Link to Authors Website](http://www.quantresearch.info)
+- [Link to Author's Website](http://www.quantresearch.info)
 - Links to buying your own copy of the textbook:
   - [Wiley](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
   - [Amazon.com](https://www.amazon.com/gp/product/1119482089/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
