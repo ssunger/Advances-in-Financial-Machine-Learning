@@ -2,9 +2,9 @@
 
 Current Goal is to include:
 
-- [] Notes on Material Presented in the textbook
-- [] Code Corresponding Chapters
-- [] Adding extra Material that goes along with the texbook
+- [ ] Notes on Material Presented in the textbook
+- [ ] Code Corresponding Chapters
+- [ ] Adding extra Material that goes along with the texbook
 
 
 ## The textbook
